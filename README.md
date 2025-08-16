@@ -46,13 +46,7 @@ Future enhancements could include:
 - Signal handling
 
 ---
-## Project Structure
-MyShell/
-├── main.c          # Entry point and main shell loop
-└── shell/
-    ├── shell.c     # Shell logic (command parsing & execution)
-    └── shell.h     # Shell header definitions
---
+
 
 ## How It Works
 
